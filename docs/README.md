@@ -13,7 +13,7 @@
 
 | key          | value                                                               |
 | ------------ | ------------------------------------------------------------------- |
-| github       | [github.com/jacoloves](https://github.com/jacoloves)                |
+| GitHub       | [github.com/jacoloves](https://github.com/jacoloves)                |
 | twitter      | [@shooonng](https://twitter.com/shooonng)                           |
 | qiita        | [qiita.com/jacoloves](https://qiita.com/jacoloves)                  |
 | はてなブログ | [bonashochnag.hatenablog.com](https://bonashochang.hatenablog.com/) |
