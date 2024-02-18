@@ -38,7 +38,48 @@
 
 ### 言語
 
-### その他
+- PHP
+- Python
+- Java
+- JavaScript
+- TypeScript
+- ShellScript
+- SQL
+- C
+- Rust
+- VB.NET
+- Go
+
+### フレームワーク・その他
+
+- FuelPHP
+- CakePHP
+- Django
+- Django REST framework
+- React
+- Docker
+- jQuery
+
+### AWS
+
+- IAM
+- IAM Identity Center
+- Organizations
+- EC2
+- S3
+- RDS
+- VPC
+- CloudFormation
+- CloudWatch
+- ECS
+- Secrets Manager
+- Systems Manager
+- Lambda
+- GuardDuty
+- Inspector
+- WAF
+- Shield
+- Security Hub
 
 ## 職務経歴詳細
 
