@@ -1,0 +1,12 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "my resume",
+  "main": "index.js",
+  "author": "shooonng <5511068t@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "markdownlint": "^0.33.0",
+    "textlint": "^14.0.2"
+  }
+}
